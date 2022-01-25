@@ -1,12 +1,28 @@
 # Android Official Document
 
-### [My First App](./MyFirstApp)
+### My First App
 
-Very first Android app, writes by `Java` .   
-Build a simple Android app using some basic views like TextViwe, Label...    
-Transfer Data between 2 Activities  
 Ref link :  https://developer.android.com/training/basics/firstapp/building-ui
 
-Demo |  Demo
--- | --
-![](./MyFirstApp/my_first_app_1.png) | ![](./MyFirstApp/my_first_app_2.png)
+
+[Source](./MyFirstApp)
+
+<img src="./MyFirstApp/my_first_app_1.png" width="200"/> <img src="./MyFirstApp/my_first_app_2.png" width="200"/>
+
+
+### Codelabs for Android Developer Fundamentals
+
+Ref link : https://developer.android.com/courses/fundamentals-training/toc-v2
+
+
+##### 1.2 Part A: Your first interactive UI  
+[Source](./HelloToast)
+
+
+<img src="./HelloToast/demo1.png" width="200"/>
+
+##### 1.2 Part B: The layout editor  
+[Source](./HelloConstraint)
+
+
+<img src="./HelloConstraint/demo1.png" width="200"/> <img src="./HelloConstraint/demo2.png" width="200"/>

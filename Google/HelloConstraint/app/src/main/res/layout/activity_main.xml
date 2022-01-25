@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linear_buttons"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/tv_show_count"
+        android:layout_alignBottom="@id/tv_show_count"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button_toast"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="showToast"
+            android:text="@string/button_label_toast"
+            android:layout_marginHorizontal="16dp"/>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            />
+
+        <Button
+            android:id="@+id/button_zero"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="reset"
+            android:layout_marginHorizontal="16dp"
+            android:text="@string/button_label_zero"
+            />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            />
+
+        <Button
+            android:id="@+id/button_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="countUp"
+            android:layout_marginHorizontal="16dp"
+            android:text="@string/button_label_count" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_show_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="#FFFF00"
+        android:gravity="center_vertical"
+        android:text="@string/count_initial_value"
+        android:textAlignment="center"
+        android:textColor="@color/design_default_color_primary"
+        android:textSize="160sp"
+        android:layout_alignParentEnd="true"
+        android:layout_toRightOf="@id/linear_buttons"
+        android:textStyle="bold"/>
+
+</RelativeLayout>
