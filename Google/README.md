@@ -26,3 +26,8 @@ Ref link : https://developer.android.com/courses/fundamentals-training/toc-v2
 
 
 <img src="./HelloConstraint/demo1.png" width="200"/> <img src="./HelloConstraint/demo2.png" width="200"/>
+
+##### 1.3: Text and scrolling views
+[Source](./android_fundamentals_01_3)
+
+<img src="./android_fundamentals_01_3/demo1.png" width="200"/> <img src="./android_fundamentals_01_3/demo2.png" width="200"/>
