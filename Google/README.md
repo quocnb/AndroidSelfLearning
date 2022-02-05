@@ -36,7 +36,11 @@ Ref link : https://developer.android.com/courses/fundamentals-training/toc-v2
 
 <img src="./android_fundamentals_01_3_homework/demo1.png" width="200"/>
 
-##### 1.3: Text and scrolling views
+##### 2.1: Activities and intents
 [Source](./android_fundamentals_02_1)  
 
 <img src="./android_fundamentals_02_1/demo1.png" width="200"/> <img src="./android_fundamentals_02_1/demo2.png" width="200"/>
+
+[Homework](./android_fundamentals_02_1_homework)  
+
+<img src="./android_fundamentals_02_1_homework/demo1.png" width="200"/> <img src="./android_fundamentals_02_1_homework/demo2.png" width="200"/>
