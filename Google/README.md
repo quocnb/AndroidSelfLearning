@@ -46,4 +46,6 @@ Ref link : https://developer.android.com/courses/fundamentals-training/toc-v2
 <img src="./android_fundamentals_02_1_homework/demo1.png" width="200"/> <img src="./android_fundamentals_02_1_homework/demo2.png" width="200"/>
 
 ##### 2.2: Activity lifecycle and state
-[Source](./android_fundamentals_02_2)  
+[Source](./android_fundamentals_02_2)    
+
+[Challenge](./android_fundamentals_02_2_challenge)  
