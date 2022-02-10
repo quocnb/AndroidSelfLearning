@@ -49,3 +49,5 @@ Ref link : https://developer.android.com/courses/fundamentals-training/toc-v2
 [Source](./android_fundamentals_02_2)    
 
 [Challenge](./android_fundamentals_02_2_challenge)  
+
+[Homework](./android_fundamentals_02_2_homework)  

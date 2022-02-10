@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CounterHomework</string>
+    <string name="edit_text_hint">This is an edit text</string>
+</resources>
