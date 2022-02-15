@@ -57,3 +57,8 @@ Ref link : https://developer.android.com/courses/fundamentals-training/toc-v2
 [Source](./android_fundamentals_04_1)    
 
 [Homework](./android_fundamentals_04_1_homework)   
+
+##### 4.2: Input Controls
+[Source](./android_fundamentals_04_2)     
+
+[Homework](./android_fundamentals_04_2_homework)  
