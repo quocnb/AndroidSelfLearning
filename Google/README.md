@@ -68,3 +68,6 @@ Ref link : https://developer.android.com/courses/fundamentals-training/toc-v2
 
 ##### 4.4: User navigation
 [Source](./android_fundamentals_04_4)    
+
+##### 4.5: Recycler View
+[Source](./android_fundamentals_04_5)  
