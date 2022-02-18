@@ -71,3 +71,6 @@ Ref link : https://developer.android.com/courses/fundamentals-training/toc-v2
 
 ##### 4.5: Recycler View
 [Source](./android_fundamentals_04_5)  
+
+##### 5.1: Drawables, styles, and themes
+[Source](./android_fundamentals_05_1)  
