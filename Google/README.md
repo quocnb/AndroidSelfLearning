@@ -74,3 +74,6 @@ Ref link : https://developer.android.com/courses/fundamentals-training/toc-v2
 
 ##### 5.1: Drawables, styles, and themes
 [Source](./android_fundamentals_05_1)  
+
+##### 5.2: Cards and colors
+[Source](./android_fundamentals_05_2)  
