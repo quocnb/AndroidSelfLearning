@@ -77,3 +77,6 @@ Ref link : https://developer.android.com/courses/fundamentals-training/toc-v2
 
 ##### 5.2: Cards and colors
 [Source](./android_fundamentals_05_2)  
+
+##### 5.3: Adaptive layouts
+[Source](./android_fundamentals_05_3)  
