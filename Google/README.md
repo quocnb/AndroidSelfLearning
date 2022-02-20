@@ -80,3 +80,7 @@ Ref link : https://developer.android.com/courses/fundamentals-training/toc-v2
 
 ##### 5.3: Adaptive layouts
 [Source](./android_fundamentals_05_3)  
+
+
+##### 7.1: AsyncTask
+[Source](./android_fundamentals_07_1)  
