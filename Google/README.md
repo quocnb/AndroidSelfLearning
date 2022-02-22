@@ -84,3 +84,6 @@ Ref link : https://developer.android.com/courses/fundamentals-training/toc-v2
 
 ##### 7.1: AsyncTask
 [Source](./android_fundamentals_07_1)  
+
+##### 7.2: AsyncTask and AsyncTaskLoader
+[Source](./android_fundamentals_07_2)  
