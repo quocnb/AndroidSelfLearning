@@ -87,3 +87,6 @@ Ref link : https://developer.android.com/courses/fundamentals-training/toc-v2
 
 ##### 7.2: AsyncTask and AsyncTaskLoader
 [Source](./android_fundamentals_07_2)  
+
+##### 7.3: Broadcast receivers
+[Source](./android_fundamentals_07_3)  
